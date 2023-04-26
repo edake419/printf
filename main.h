@@ -8,6 +8,8 @@
 
 /*printf_functions.c */
 int _printf(const char *format, ...);
+int print_number(int n);
+int print_binary(unsigned int n);
 
 
 #endif /*_MAIN_H_*/
